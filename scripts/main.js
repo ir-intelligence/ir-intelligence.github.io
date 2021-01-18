@@ -6,7 +6,7 @@ $(function() {
     WTF.init({
 
         heading: [
-            "[[ IMPERIAL INTELLIGENCE // ACCESSING DATABASE... ]]<br><br>[[ OPERATIVE AUTHORIZATION ACKNOWLEDGED ]]"
+            "[[ IMPERIAL INTELLIGENCE // ACCESSING DATABASE... ]]<br><br>[[ AUTHORIZATION ACKNOWLEDGED ]]"
         ],
         response: [
            "[[ RETRIEVE NEXT MISSION ASSIGNMENT ]]"
