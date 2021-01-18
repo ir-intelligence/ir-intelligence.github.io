@@ -282,16 +282,6 @@ $(function() {
             "Leave no witnesses",
 	    "No collateral damage is allowed",
 	    "Imperial Intelligence's involvement must remain undetected"
-        ],
-        rural: [
-            "Tatooine",
-            "Hoth",
-            "Taris",
-            "Yavin 4",
-            "Rishi",
-            "Ilum",
-            "Onderon",
-	    "Hutta"
         ]
     });
 
