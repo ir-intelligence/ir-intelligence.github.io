@@ -37,7 +37,8 @@ $(function() {
 		"Rishi",
 		"Tanaab",
 		"Taris",
-		"Tatooine"	    
+		"Tatooine",
+		"Zakuul"
         ],
         mission: [
 		"assassinate the target",
