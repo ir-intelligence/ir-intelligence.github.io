@@ -50,7 +50,8 @@ $(function() {
 		"kidnap the target",
 		"plant compromising evidence",
 		"plant surveillance on the target",
-		"sabotage the target's operations"
+		"sabotage the target's operations",
+		"surveil the target"
         ],
         behavior: [
 	        "an abrasive",
