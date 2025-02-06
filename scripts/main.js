@@ -17,7 +17,7 @@ $(function() {
 		"Your objective is to travel to @locale and @mission. The target is @behavior @target. You may encounter resistance in the form of @obstacle. @theme. <br><br> OOC: @infiltrationd20,  @missiond20,  @exfiltrationd20",
 		"Your objective is to travel to @locale and @mission. The target is @behavior @target. However, be careful because @complication. @theme. <br><br> OOC: @infiltrationd20,  @missiond20,  @exfiltrationd20",
 		"Your mission is to protect @behavior @target on @locale from a hostile @target @reason. You may encounter resistance in the form of @obstacle. @theme. <br><br> OOC: @infiltrationd20,  @missiond20,  @exfiltrationd20",
-		"Your mission is to infiltrate @behavior @group on @locale and establish a contact. You may encounter difficulty in the form of @obstacle. @theme. <br><br> OOC: @infiltrationd20,  @missiond20,  @exfiltrationd20",
+		"Your mission is to infiltrate @behavior @group on @locale and establish a contact. You may encounter difficulty in the form of @obstacle. @theme. 
         ],
         locale: [
 		"Alderaan",
