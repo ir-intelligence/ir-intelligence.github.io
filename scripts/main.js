@@ -12,12 +12,12 @@ $(function() {
            "[[ RETRIEVE NEXT MISSION ASSIGNMENT ]]"
         ],
         template: [
-		"Your mission is to go to @locale and @mission. The target is @behavior @target. However, be careful because @complication. @theme. <br><br> OOC: @infiltrationd20,  @missiond20,  @exfiltrationd20",
-		"Your objective is to travel to @locale and obtain @asset from @behavior @target. You may encounter resistance in the form of @obstacle. @theme. <br><br> OOC: @infiltrationd20,  @missiond20,  @exfiltrationd20",
-		"Your objective is to travel to @locale and @mission. The target is @behavior @target. You may encounter resistance in the form of @obstacle. @theme. <br><br> OOC: @infiltrationd20,  @missiond20,  @exfiltrationd20",
-		"Your objective is to travel to @locale and @mission. The target is @behavior @target. However, be careful because @complication. @theme. <br><br> OOC: @infiltrationd20,  @missiond20,  @exfiltrationd20",
-		"Your mission is to protect @behavior @target on @locale from a hostile @target @reason. You may encounter resistance in the form of @obstacle. @theme. <br><br> OOC: @infiltrationd20,  @missiond20,  @exfiltrationd20",
-		"Your mission is to infiltrate @behavior @group on @locale and establish a contact. You may encounter difficulty in the form of @obstacle. @theme. 
+		"Your mission is to go to @locale and @mission. The target is @behavior @target. However, be careful because @complication. @theme.",
+		"Your objective is to travel to @locale and obtain @asset from @behavior @target. You may encounter resistance in the form of @obstacle. @theme.",
+		"Your objective is to travel to @locale and @mission. The target is @behavior @target. You may encounter resistance in the form of @obstacle. @theme.",
+		"Your objective is to travel to @locale and @mission. The target is @behavior @target. However, be careful because @complication. @theme.",
+		"Your mission is to protect @behavior @target on @locale from a hostile @target @reason. You may encounter resistance in the form of @obstacle. @theme.",
+		"Your mission is to infiltrate @behavior @group on @locale and establish a contact. You may encounter difficulty in the form of @obstacle. @theme.",
         ],
         locale: [
 		"Alderaan",
